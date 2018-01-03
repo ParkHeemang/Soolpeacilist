@@ -1,15 +1,15 @@
 package DTO;
 
-public class VisionDto {
+public class VisionDTO {
     int num;
     String day;
     String content;
  
-    public VisionDto() {
+    public VisionDTO() {
         // TODO Auto-generated constructor stub
     }
      
-    public VisionDto(int num, String day, String content) {
+    public VisionDTO(int num, String day, String content) {
         this.num = num;
         this.day = day;
         this.content = content;
